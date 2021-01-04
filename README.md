@@ -6,7 +6,7 @@
 
 **Text editor:** You can use any text editor you would like to complete your project
 
- **Submission:** Create pull request
+ **Submission:** Fork the project and create a pull request when complete. 1 pull request per group. (https://github.com/Phillip-Generation/refresher-exercise)
 
 **Remeber:** Most important part of this activity is to work as a team to write the code to fulfill the requirements below.
 
