@@ -23,22 +23,24 @@
 * Fork the project found here: https://github.com/Phillip-Generation/refresher-exercise
 * Basic structural elements (ex. document type declaration, head tags, body tags, html tags)
 * Page title element inside of appropriate tag
-* A main heading, and 4 sub headings
+* A main heading, and 2 sub headings
 * Use of at least 3 paragraph tags
 * A link to usa.generation.org
-* A link to codecademy.com that opens in a new window
+* A link to https://www.w3schools.com/ that opens in a new window
 * Use of whitespace and indentation to make code easily readable.
 * 1 table with at least 5 rows
 * At least one row must span 2 columns
 * 1 form containing:
-* 2 Fields and label for text input
-* One of the fields should accept accept input type password
-* Field and label for number input 
-* Dropdown list and label with 5 options.
+** 2 Fields and label for text input
+** One of the fields should accept accept input type password
+** Field and label for number input 
+** Dropdown list and label with 5 options.
 * A nav section with at least 3 links that takes the user to other parts of the page.
 * One instance of inline CSS
 * One instance of internal CSS
 * All other CSS in a linked style sheet
+* At least 2 uses of each: style by tag, style by class, style by id.
+* One use of multiple classes on a single element
 * A footer with the names of your team members.
 
 
