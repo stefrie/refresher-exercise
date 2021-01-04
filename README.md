@@ -1,6 +1,6 @@
 # Refresher Exercise: BSM Website
 
-** The purpose of this assignment is to review material covered in weeks 1-5 of class**
+**The purpose of this assignment is to review material covered in weeks 1-5 of class**
 
 **Roles:** Timer, Typer and/or consolidator, Submission Manager, Contributors, Auditor (ensures completion of requirements and asks clarifying questions to me in Slack).
 
