@@ -18,7 +18,7 @@ Not a graded assignment. If you do not finish all requirements, it is OK.
 
 Be creative and have fun!
 
-* **Requirements:**
+**Requirements:**
 **Website about one of our BSMs**
 * Select a BSM that will be the subject of your site
 * Basic structural elements (ex. document type declaration, head tags, body tags, html tags)
