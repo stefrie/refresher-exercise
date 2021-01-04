@@ -4,7 +4,7 @@
 
 **Roles:** Timer, Typer and/or consolidator, Submission Manager, Contributors, Auditor (ensures completion of requirements and asks clarifying questions to me in Slack).
 
-**Text editor:** You can use any text editor you would like to complete your
+**Text editor:** You can use any text editor you would like to complete your project
 
  **Submission:** Create pull request
 
@@ -21,6 +21,7 @@
 
 * Select a BSM that will be the subject of your site
 * Fork the project found here: https://github.com/Phillip-Generation/refresher-exercise
+* Clone a copy of the project to your local machine
 * Basic structural elements (ex. document type declaration, head tags, body tags, html tags)
 * Page title element inside of appropriate tag
 * A main heading, and 2 sub headings
