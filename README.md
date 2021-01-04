@@ -28,7 +28,7 @@
 * A link to usa.generation.org
 * A link to https://www.w3schools.com/ that opens in a new window
 * Use of whitespace and indentation to make code easily readable.
-* 1 table with at least 5 rows
+* 1 table with at least 5 rows and 3 columns
 * At least one row must span 2 columns
 * 1 form containing:
     * 3 Fields and label for text input
@@ -37,10 +37,10 @@
     * Option for range input
     * Checkbox input 
     * Radio button input
-* A nav section with at least 3 links that takes the user to other parts of the page.
+* A nav section with at least 2 links that takes the user to other parts of the page.
 * One instance of inline CSS
 * One instance of internal CSS
-* All other CSS in a linked style sheet
+* All other CSS in a linked stylesheet
 * At least 2 uses of each: style by tag, style by class, style by id.
 * One use of multiple classes on a single element
 * A footer with the names of your team members.
