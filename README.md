@@ -31,10 +31,12 @@
 * 1 table with at least 5 rows
 * At least one row must span 2 columns
 * 1 form containing:
-** 2 Fields and label for text input
-** One of the fields should accept accept input type password
-** Field and label for number input 
-** Dropdown list and label with 5 options.
+    * 3 Fields and label for text input
+    * One of the fields should accept accept input type password
+    * Field and label for number input 
+    * Option for range input
+    * Checkbox input 
+    * Radio button input
 * A nav section with at least 3 links that takes the user to other parts of the page.
 * One instance of inline CSS
 * One instance of internal CSS
